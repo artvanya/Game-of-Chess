@@ -1,0 +1,12 @@
+﻿<Window x:Class="ChessGame.Rules_of_Chess"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChessGame"
+        mc:Ignorable="d"
+        Title="Confirmation" Height="450" Width="805" Background="Green">
+    <StackPanel>
+        <TextBox HorizontalAlignment="Left" Height="420" Margin="0,0,0,0" Background ="LightGreen"  TextWrapping="Wrap" Text="Pieces involved in the game&#xA;&#xA;Bishop: one of two pieces of the same colour that may be moved any number squares diagonally, if no other piece blocks its way. (One piece always remains on White squares and the other always on Black). &#xA;&#xA;King: The main piece of the game, checkmating this piece is the object of the game. It can move 1 space in any direction. &#xA;&#xA;Knight: This piece can move 1 space vertically and 2 spaces horizontally or 2 spaces vertically and 1 space horizontally. This piece looks like a horse. This piece can also jump over other pieces. &#xA;&#xA;Pawn: One of eight men of one colour and of the lowest value usually moved one square at a time vertically and capturing diagonally.&#xA;&#xA;Queen: This piece can move in any number of spaces in any direction if no other piece is in its way.&#xA;&#xA;Rook: one of two pieces of the same colour that may be moved any number squares horizontally or vertically, if no other piece blocks its way.&#xA;&#xA;Special chess terms used in the game&#xA;&#xA;Check: To make a move that puts the opponents King under direct attack.&#xA;&#xA;Checkmate: a situation in which an opponent's king is in check and it cannot avoid being captured. This then brings the game to a victorious result.&#xA;&#xA;Castling: to move the king two squares horizontally and bring the appropriate rook to the square the king has passed over.&#xA;&#xA;" VerticalAlignment="Top" Width="790"/>
+    </StackPanel>
+</Window>

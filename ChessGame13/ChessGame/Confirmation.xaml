@@ -1,0 +1,17 @@
+﻿<Window x:Class="ChessGame.Confirmation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChessGame"
+        mc:Ignorable="d"
+        Title="Confirmation" Height="450" Width="800" Background="LightGreen">
+    <Grid>
+        <Button Content="Queen" HorizontalAlignment="Left" Margin="80,86,0,0" VerticalAlignment="Top" Width="293" Click="Button_Click1" Height="145" FontSize="36" Background="Yellow"/>
+        <Button Content="Rook" HorizontalAlignment="Left" Margin="458,86,0,0" VerticalAlignment="Top" Width="270" Click="Button_Click2" Height="145" FontSize="36" Background="Yellow"/>
+        <TextBox HorizontalAlignment="Left" Height="65" Margin="10,21,0,0" TextWrapping="Wrap" Text="      What do you want to promote your pawn into?" VerticalAlignment="Top" Width="771" FontSize="32" Foreground="#FF0A0505" Background="LightGreen"/>
+        <Button Content="Bishop" HorizontalAlignment="Left" Margin="80,254,0,0" VerticalAlignment="Top" Width="293" Click="Button_Click3" Height="140" FontSize="36" Background="Yellow"/>
+        <Button Content="Knight" HorizontalAlignment="Left" Margin="458,254,0,0" VerticalAlignment="Top" Width="265" Click="Button_Click4" Height="140" FontSize="36" Background="Yellow"/>
+
+    </Grid>
+</Window>

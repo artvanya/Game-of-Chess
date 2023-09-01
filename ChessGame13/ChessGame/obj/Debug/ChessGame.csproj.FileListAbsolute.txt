@@ -1,0 +1,19 @@
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame.csprojAssemblyReference.cache
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\Confirmation.g.cs
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\MainWindow.g.cs
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\Rules of Chess.g.cs
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\App.g.cs
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame_MarkupCompile.cache
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame_MarkupCompile.lref
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\Confirmation.baml
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\MainWindow.baml
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\Rules of Chess.baml
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame.g.resources
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\artva\Source\Repos\ChessGame13\ChessGame\obj\Debug\ChessGame.pdb
